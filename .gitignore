@@ -1,3 +1,5 @@
 NAM_all_imputed_concat_pos_HTSNP.vcf.gz
 extract_N04.sh
 sample.txt
+N04_SHONI_ragtag.scaffold.fasta
+SHONI_chr11.fasta.fai
