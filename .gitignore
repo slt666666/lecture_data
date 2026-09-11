@@ -3,3 +3,4 @@ extract_N04.sh
 sample.txt
 N04_SHONI_ragtag.scaffold.fasta
 SHONI_chr11.fasta.fai
+cand_gene_list.txt
